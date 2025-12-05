@@ -17,4 +17,3 @@ pip install -r requirements.txt
 - vizwiz [Download Page](https://vizwiz.org/tasks-and-datasets/vqa/)
 - SQA [Download Page](https://github.com/lupantech/ScienceQA)
 
-Thanks for the code organization from Kanthon1209.
