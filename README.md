@@ -16,3 +16,5 @@ pip install -r requirements.txt
 - OKVQA [Download Page](https://okvqa.allenai.org/download.html)
 - vizwiz [Download Page](https://vizwiz.org/tasks-and-datasets/vqa/)
 - SQA [Download Page](https://github.com/lupantech/ScienceQA)
+
+Thanks for the code organization from Kanthon1209.
